@@ -13,7 +13,7 @@ The original .csv file and supplementary word document is stored in this reposit
 
 ## Project Highlights
 
-- Data Quality Standards and Requirements: This is define as the accepted decimal place for grade columns, the data types, text casing and value data types and consistency for computation.
+- Data Quality Standards and Requirements: This is defined as the accepted decimal place for grade columns, the data types, text casing and value data types and consistency for computation.
 
 - Data Profiling:thorough examination of the dataset to understand its structure, and anomalies. Potential data quality issues, such as missing values, duplicates, outliers, and inconsistencies were identified.
 
